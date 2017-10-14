@@ -1,7 +1,7 @@
 # Javascript 30 Challenge
-This is my repo for the Javascript30 course by [Wes Bos](https://github.com/wesbos).
+This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes Bos](https://github.com/wesbos).
 
-- [x] 1 - JavaScript Drum Kit
+- [x] 1 - [JavaScript Drum Kit](https://github.com/forral/javascript30-challenge/tree/master/1-js-drum-kit)
 - [x] 2 - CSS + JS Clock
 - [ ] 3 - Playing with CSS Variables and JS
 - [ ] 4 - Array Cardio Day 1
