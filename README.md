@@ -2,7 +2,7 @@
 This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes Bos](https://github.com/wesbos).
 
 - [x] 1 - [JavaScript Drum Kit](https://github.com/forral/javascript30-challenge/tree/master/1-js-drum-kit)
-- [x] 2 - CSS + JS Clock
+- [x] 2 - [CSS + JS Clock](https://github.com/forral/javascript30-challenge/tree/master/2-css-js-clock)
 - [ ] 3 - Playing with CSS Variables and JS
 - [ ] 4 - Array Cardio Day 1
 - [ ] 5 - Flex Panels Image Gallery
