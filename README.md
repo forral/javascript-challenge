@@ -3,7 +3,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 
 - [x] 1 - [JavaScript Drum Kit](https://github.com/forral/javascript30-challenge/tree/master/1-js-drum-kit)
 - [x] 2 - [CSS + JS Clock](https://github.com/forral/javascript30-challenge/tree/master/2-css-js-clock)
-- [ ] 3 - [Playing with CSS Variables and JS](https://github.com/forral/javascript30-challenge/tree/master/3-playing-css-variables-js)
+- [x] 3 - [Playing with CSS Variables and JS](https://github.com/forral/javascript30-challenge/tree/master/3-playing-css-variables-js)
 - [ ] 4 - Array Cardio Day 1
 - [ ] 5 - Flex Panels Image Gallery
 - [ ] 6 - Ajax Type Ahead
