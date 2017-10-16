@@ -53,15 +53,19 @@
     // Array.prototype.reduce()
     // 4. How many years did all the inventors live?
 
-    // var inventorsLiveTime = inventors.reduce(function(a, b) {
-    //   return (a.passed - a.year) + (b.passed - b.year);
-    // });
+    var inventorsLiveTime = inventors.reduce(function(a, b) {
+      return a + (b.passed - b.year);
+    }, 0);
 
     // 5. Sort the inventors by years lived
 
     var inventorsLiveSpam = inventors.sort(function(a, b) {
-      return (a.passed - a.year) - (b.passed - b.year);
-    }).reverse();
+      var lastGuy = a.passed - a.year;
+      var nextGuy = b.passed - b.passed;
+      return lastGuy > nextGuy ? -1 : 1;
+    });
+
+    // console.table(inventorsLiveSpam);
 
     // 6. create a list of Boulevards in Paris that contain 'de' anywhere in the name
     // https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris
@@ -84,9 +88,26 @@
     // 7. sort Exercise
     // Sort the people alphabetically by last name
 
+    var lastNameSorted = people.sort(function(lastOne, nextOne) {
+      var [lastOneLastName, lastOneFirstName] = lastOne.split(', ');
+      var [nextOneLastName, nextOneFirstName] = nextOne.split(', ');
+      return lastOneLastName > nextOneLastName ? 1 : -1;
+    });
+
     // 8. Reduce Exercise
     // Sum up the instances of each of these
     const data = ['car', 'car', 'truck', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck' ];
+
+    var transportation = data.reduce(function(obj, item) {
+
+      if (!obj[item]) {
+        obj[item] = 0;
+      }
+
+      obj[item]++;
+      return obj;
+
+    }, {});
 
   </script>
 </body>
