@@ -50,10 +50,12 @@
       return a.year - b.year;
     });
 
-    console.log(inventorsSorted);
-
     // Array.prototype.reduce()
     // 4. How many years did all the inventors live?
+
+    var inventorsLiveTime = inventors.reduce(function(a, b) {
+      return a + b.passed - b.year;
+    });
 
     // 5. Sort the inventors by years lived
 
