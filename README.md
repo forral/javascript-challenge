@@ -6,7 +6,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 3 - [Playing with CSS Variables and JS](https://github.com/forral/javascript30-challenge/tree/master/3-playing-css-variables-js)
 - [x] 4 - [Array Cardio Day 1](https://github.com/forral/javascript30-challenge/tree/master/4-array-cardio-day-1)
 - [x] 5 - [Flex Panels Image Gallery](https://github.com/forral/javascript30-challenge/blob/master/5-flex-panels-image-gallery/index.html)
-- [ ] 6 - Ajax Type Ahead
+- [x] 6 - [Ajax Type Ahead](https://github.com/forral/javascript30-challenge/tree/master/6-ajax-type-ahead)
 - [ ] 7 - Array Cardio Day 2
 - [ ] 8 - Fun with HTML5 Canvas
 - [ ] 9 - 14 Must Know Dev Tools Tricks
