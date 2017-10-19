@@ -8,7 +8,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 5 - [Flex Panels Image Gallery](https://github.com/forral/javascript30-challenge/blob/master/5-flex-panels-image-gallery/index.html)
 - [x] 6 - [Ajax Type Ahead](https://github.com/forral/javascript30-challenge/tree/master/6-ajax-type-ahead)
 - [x] 7 - [Array Cardio Day 2](https://github.com/forral/javascript30-challenge/tree/master/7-array-cardio-day-2)
-- [ ] 8 - Fun with HTML5 Canvas
+- [x] 8 - [Fun with HTML5 Canvas](https://github.com/forral/javascript30-challenge/tree/master/8-fun-with-html5-canvas)
 - [ ] 9 - 14 Must Know Dev Tools Tricks
 - [ ] 10 - Hold Shift to Check Multiple Checkboxes
 - [ ] 11 - Custom HTML5 Video Player
