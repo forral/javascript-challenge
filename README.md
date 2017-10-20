@@ -9,7 +9,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 6 - [Ajax Type Ahead](https://github.com/forral/javascript30-challenge/tree/master/6-ajax-type-ahead)
 - [x] 7 - [Array Cardio Day 2](https://github.com/forral/javascript30-challenge/tree/master/7-array-cardio-day-2)
 - [x] 8 - [Fun with HTML5 Canvas](https://github.com/forral/javascript30-challenge/tree/master/8-fun-with-html5-canvas)
-- [x] 9 - [14 Must Know Dev Tools Tricks]()
+- [x] 9 - [14 Must Know Dev Tools Tricks](https://github.com/forral/javascript30-challenge/tree/master/9-14-must-know-dev-tools-tricks)
 - [ ] 10 - Hold Shift to Check Multiple Checkboxes
 - [ ] 11 - Custom HTML5 Video Player
 - [ ] 12 - Key Sequence Detection (KONAMI CODE)
