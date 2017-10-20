@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+  
+  <p onClick="makeGreen()">xBREAKxDOWNx</p>
+
+  <script>
+  
+    const dogs = [{name: 'Snickers', age: 2}, {name: 'Hugo', age: 8}];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Interpolated
+    console.log('Hello my name is %s', 'Luis');
+
+    // Styled
+    console.log('%c I am some great text', 'font-size: 50px; background: red; text-shadow: 10px 10px 0 blue');
+
+    // warning!
+    console.warn('ooooooh No!');
+
+    // Error :|
+    console.error('BUZZZZZZZ');
+
+    // Info
+    console.info('did you know that...');
+
+    // Testing
+    console.assert(1 === 2, 'you didn\'t the right assertion');
+
+    // clearing
+    //console.clear();
+
+    // Viewing DOM Elements
+    console.dir();
+
+    // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    });
+
+    // counting
+    console.count('forra');
+    console.count('Berumen');
+    console.count('forra');
+    console.count('Berumen');
+    console.count('Berumen');
+    console.count('forra');
+    console.count('forra');
+    console.count('Berumen');
+    console.count('forra');
+
+    // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/forral')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
+
+  </script>
+
+</body>
+</html>
