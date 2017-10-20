@@ -1,15 +1,15 @@
 # Javascript 30 Challenge
 This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes Bos](https://github.com/wesbos).
 
-- [x] 1 - [JavaScript Drum Kit](https://github.com/forral/javascript30-challenge/tree/master/1-js-drum-kit)
-- [x] 2 - [CSS + JS Clock](https://github.com/forral/javascript30-challenge/tree/master/2-css-js-clock)
-- [x] 3 - [Playing with CSS Variables and JS](https://github.com/forral/javascript30-challenge/tree/master/3-playing-css-variables-js)
-- [x] 4 - [Array Cardio Day 1](https://github.com/forral/javascript30-challenge/tree/master/4-array-cardio-day-1)
-- [x] 5 - [Flex Panels Image Gallery](https://github.com/forral/javascript30-challenge/blob/master/5-flex-panels-image-gallery/index.html)
-- [x] 6 - [Ajax Type Ahead](https://github.com/forral/javascript30-challenge/tree/master/6-ajax-type-ahead)
-- [x] 7 - [Array Cardio Day 2](https://github.com/forral/javascript30-challenge/tree/master/7-array-cardio-day-2)
-- [x] 8 - [Fun with HTML5 Canvas](https://github.com/forral/javascript30-challenge/tree/master/8-fun-with-html5-canvas)
-- [x] 9 - [14 Must Know Dev Tools Tricks](https://github.com/forral/javascript30-challenge/tree/master/9-14-must-know-dev-tools-tricks)
+- [x] 1 - [JavaScript Drum Kit](https://github.com/forral/javascript30-challenge/tree/master/01-js-drum-kit)
+- [x] 2 - [CSS + JS Clock](https://github.com/forral/javascript30-challenge/tree/master/02-css-js-clock)
+- [x] 3 - [Playing with CSS Variables and JS](https://github.com/forral/javascript30-challenge/tree/master/03-playing-css-variables-js)
+- [x] 4 - [Array Cardio Day 1](https://github.com/forral/javascript30-challenge/tree/master/04-array-cardio-day-1)
+- [x] 5 - [Flex Panels Image Gallery](https://github.com/forral/javascript30-challenge/blob/master/05-flex-panels-image-gallery/index.html)
+- [x] 6 - [Ajax Type Ahead](https://github.com/forral/javascript30-challenge/tree/master/06-ajax-type-ahead)
+- [x] 7 - [Array Cardio Day 2](https://github.com/forral/javascript30-challenge/tree/master/07-array-cardio-day-2)
+- [x] 8 - [Fun with HTML5 Canvas](https://github.com/forral/javascript30-challenge/tree/master/08-fun-with-html5-canvas)
+- [x] 9 - [14 Must Know Dev Tools Tricks](https://github.com/forral/javascript30-challenge/tree/master/09-14-must-know-dev-tools-tricks)
 - [ ] 10 - Hold Shift to Check Multiple Checkboxes
 - [ ] 11 - Custom HTML5 Video Player
 - [ ] 12 - Key Sequence Detection (KONAMI CODE)
