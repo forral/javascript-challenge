@@ -10,7 +10,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 7 - [Array Cardio Day 2](https://github.com/forral/javascript30-challenge/tree/master/07-array-cardio-day-2)
 - [x] 8 - [Fun with HTML5 Canvas](https://github.com/forral/javascript30-challenge/tree/master/08-fun-with-html5-canvas)
 - [x] 9 - [14 Must Know Dev Tools Tricks](https://github.com/forral/javascript30-challenge/tree/master/09-14-must-know-dev-tools-tricks)
-- [ ] 10 - Hold Shift to Check Multiple Checkboxes
+- [x] 10 - [Hold Shift to Check Multiple Checkboxes](https://github.com/forral/javascript30-challenge/tree/master/10-hold-shift-to-check-multiple-checkboxes)
 - [ ] 11 - Custom HTML5 Video Player
 - [ ] 12 - Key Sequence Detection (KONAMI CODE)
 - [ ] 13 - Slide In on Scroll
