@@ -97,36 +97,33 @@
 
   </div>
   <script>
-  
-    // 1. find inputs in between.
 
     var lastChecked;
 
     // get all input type checkbox and convert the nodelist into an array with es6 spread
-    var checkboxes = [...document.querySelectorAll('input[type="checkbox"]')];
-    var inbox = document.querySelector('.inbox');
+    var checkboxes = document.querySelectorAll('input[type="checkbox"]');
 
-    // adding class name with the corresponding index value
-    checkboxes.forEach( (checkbox, index) => {
-      checkbox.id = index;
+    // adding event listerners to the inputs
+    checkboxes.forEach(function(checkbox){
+      checkbox.addEventListener('click', handleCheck);
     });
     
-    function checkEvent(e) {
-      lastChecked = this.id;
-      
-      console.log(e);
+    function handleCheck(e) {
 
-      if (e.which === 16 && e.type === 'click') {
-        console.log('shift is pressed');
+      var inBetween = false;
+      if (e.shiftKey && this.checked) {
+        checkboxes.forEach(function(checkbox) {
+          console.log(checkbox);
+          if (checkbox === this || checkbox === lastChecked) {
+            inBetween = !inBetween;
+          }
+
+        });
+
       }
+
+      lastChecked = this;
     }
-
-    checkboxes.forEach(function(checkbox){
-      checkbox.addEventListener('click', checkEvent);   
-    });
-
-    document.addEventListener('keydown', checkEvent)
-
 
   </script>
 </body>
