@@ -23,8 +23,7 @@ function updateButtonIcon() {
 
 
 // hook up the envent listeners
-
 video.addEventListener('click', togglePlay);
-toggle.addEventListener('click', togglePlay);
+video.addEventListener('play', updateButtonIcon);
 video.addEventListener('pause', updateButtonIcon);
-toggle.addEventListener('click', updateButtonIcon);
+toggle.addEventListener('click', togglePlay);
