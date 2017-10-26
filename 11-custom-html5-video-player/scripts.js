@@ -16,14 +16,50 @@ function togglePlay() {
   }
 }
 
+function skip() {
+  video.currentTime += parseFloat(this.dataset.skip);
+}
+
 function updateButtonIcon() {
   const icon = this.paused ? '►' : '▍▍';
   toggle.textContent = icon;
 }
 
+function handleRangeUpdate() {
+  video[this.name] = this.value;
+}
+
+function handleProgress() {
+  const percent = (video.currentTime / video.duration) * 100;
+  progressBar.style.flexBasis = `${percent}%`;
+}
+
+function scrub(e) {
+  const scrubTime = (e.offsetX / progress.offsetWidth) * video.duration;
+  video.currentTime = scrubTime;
+}
 
 // hook up the envent listeners
 video.addEventListener('click', togglePlay);
 video.addEventListener('play', updateButtonIcon);
 video.addEventListener('pause', updateButtonIcon);
 toggle.addEventListener('click', togglePlay);
+video.addEventListener('timeupdate', handleProgress);
+
+skipButtons.forEach(function(button) {
+  button.addEventListener('click', skip);
+});
+
+ranges.forEach(function(range) {
+  range.addEventListener('change', handleRangeUpdate);
+});
+
+ranges.forEach(range => {
+  range.addEventListener('mousemove', handleRangeUpdate);
+});
+
+let mousedown = false;
+progress.addEventListener('click', scrub);
+progress.addEventListener('mousemove', (e) => mousedown && scrub(e));
+progress.addEventListener('mousedown', () => mousedown = true);
+progress.addEventListener('mouseup', () => mousedown = false);
