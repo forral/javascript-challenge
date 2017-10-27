@@ -12,7 +12,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 9 - [14 Must Know Dev Tools Tricks](https://github.com/forral/javascript30-challenge/tree/master/09-14-must-know-dev-tools-tricks)
 - [x] 10 - [Hold Shift to Check Multiple Checkboxes](https://github.com/forral/javascript30-challenge/tree/master/10-hold-shift-to-check-multiple-checkboxes)
 - [x] 11 - [Custom HTML5 Video Player](https://github.com/forral/javascript30-challenge/tree/master/11-custom-html5-video-player)
-- [ ] 12 - Key Sequence Detection (KONAMI CODE)
+- [x] 12 - [Key Sequence Detection (KONAMI CODE)](https://github.com/forral/javascript30-challenge/tree/master/12-key-sequence-detection)
 - [ ] 13 - Slide In on Scroll
 - [ ] 14 - Object and Arrays - Reference VS Copy
 - [ ] 15 - LocalStorage and Event Delegation
