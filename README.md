@@ -13,7 +13,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 10 - [Hold Shift to Check Multiple Checkboxes](https://github.com/forral/javascript30-challenge/tree/master/10-hold-shift-to-check-multiple-checkboxes)
 - [x] 11 - [Custom HTML5 Video Player](https://github.com/forral/javascript30-challenge/tree/master/11-custom-html5-video-player)
 - [x] 12 - [Key Sequence Detection (KONAMI CODE)](https://github.com/forral/javascript30-challenge/tree/master/12-key-sequence-detection)
-- [ ] 13 - Slide In on Scroll
+- [x] 13 - [Slide In on Scroll](https://github.com/forral/javascript30-challenge/tree/master/13-slide-in-on-scroll)
 - [ ] 14 - Object and Arrays - Reference VS Copy
 - [ ] 15 - LocalStorage and Event Delegation
 - [ ] 16 - CSS Text Shadow Mouse Move Effect
