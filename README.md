@@ -14,8 +14,8 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 11 - [Custom HTML5 Video Player](https://github.com/forral/javascript30-challenge/tree/master/11-custom-html5-video-player)
 - [x] 12 - [Key Sequence Detection (KONAMI CODE)](https://github.com/forral/javascript30-challenge/tree/master/12-key-sequence-detection)
 - [x] 13 - [Slide In on Scroll](https://github.com/forral/javascript30-challenge/tree/master/13-slide-in-on-scroll)
-- [ ] 14 - Object and Arrays - Reference VS Copy
-- [ ] 15 - LocalStorage and Event Delegation
+- [x] 14 - Object and Arrays - Reference VS Copy
+- [x] 15 - [LocalStorage and Event Delegation](https://github.com/forral/javascript30-challenge/tree/master/15-localstorage-and-event-delegation)
 - [ ] 16 - CSS Text Shadow Mouse Move Effect
 - [ ] 17 - Sorting Band Names without articles
 - [ ] 18 - Tally String Times with Reduce
