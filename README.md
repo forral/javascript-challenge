@@ -17,7 +17,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 14 - Object and Arrays - Reference VS Copy
 - [x] 15 - [LocalStorage and Event Delegation](https://github.com/forral/javascript30-challenge/tree/master/15-localstorage-and-event-delegation)
 - [x] 16 - [CSS Text Shadow Mouse Move Effect](https://github.com/forral/javascript30-challenge/tree/master/16-mouse-move-shadow)
-- [x] 17 - Sorting Band Names without articles
+- [x] 17 - [Sorting Band Names without articles](https://github.com/forral/javascript30-challenge/tree/master/17-sort-without-articles)
 - [ ] 18 - Tally String Times with Reduce
 - [ ] 19 - Unreal Webcam Fun
 - [ ] 20 - Native Speech Recognition
