@@ -20,7 +20,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 17 - [Sorting Band Names without articles](https://github.com/forral/javascript30-challenge/tree/master/17-sort-without-articles)
 - [x] 18 - [Tally String Times with Reduce](https://github.com/forral/javascript30-challenge/tree/master/18-tally-string-times-with-reduce)
 - [x] 19 - [Unreal Webcam Fun](https://github.com/forral/javascript30-challenge/tree/master/19-unreal-webcam-fun)
-- [ ] 20 - Native Speech Recognition
+- [x] 20 - [Native Speech Recognition](https://github.com/forral/javascript30-challenge/tree/master/20-native-speech-recognition)
 - [ ] 21 - Geolocation based Speedometer and Compass
 - [ ] 22 - Follow Along Links
 - [ ] 23 - Speech Synthesis
