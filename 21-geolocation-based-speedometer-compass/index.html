@@ -79,8 +79,18 @@
   </h1>
   <script>
   
-    
-  
+     const arrow =  document.querySelector('.arrow');
+     const speed = document.querySelector('.speed-value');
+
+     navigator.geolocation.watchPosition(function(data) {
+      console.log(data.coords.heading);
+      speed.textContent = data.coords.speed;
+      arrow.style.transform = `rotate(${data.coords.heading}deg)`;
+     }, function(err) {
+       console.error(err);
+       alert('HEY! YOU GOTTA ALLOW THAT TO HAPPEN!!!');
+     });
+     
   </script>
 </body>
 </html>
