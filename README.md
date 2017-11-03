@@ -21,7 +21,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 18 - [Tally String Times with Reduce](https://github.com/forral/javascript30-challenge/tree/master/18-tally-string-times-with-reduce)
 - [x] 19 - [Unreal Webcam Fun](https://github.com/forral/javascript30-challenge/tree/master/19-unreal-webcam-fun)
 - [x] 20 - [Native Speech Recognition](https://github.com/forral/javascript30-challenge/tree/master/20-native-speech-recognition)
-- [ ] 21 - Geolocation based Speedometer and Compass
+- [x] 21 - [Geolocation based Speedometer and Compass](https://github.com/forral/javascript30-challenge/tree/master/21-geolocation-based-speedometer-compass)
 - [ ] 22 - Follow Along Links
 - [ ] 23 - Speech Synthesis
 - [ ] 24 - Sticky Nav
