@@ -22,7 +22,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 19 - [Unreal Webcam Fun](https://github.com/forral/javascript30-challenge/tree/master/19-unreal-webcam-fun)
 - [x] 20 - [Native Speech Recognition](https://github.com/forral/javascript30-challenge/tree/master/20-native-speech-recognition)
 - [x] 21 - [Geolocation based Speedometer and Compass](https://github.com/forral/javascript30-challenge/tree/master/21-geolocation-based-speedometer-compass)
-- [ ] 22 - Follow Along Links
+- [x] 22 - [Follow Along Links](https://github.com/forral/javascript30-challenge/tree/master/22-follow-along-links)
 - [ ] 23 - Speech Synthesis
 - [ ] 24 - Sticky Nav
 - [ ] 25 - Event Capture, Propagation, Bubbling and Once
