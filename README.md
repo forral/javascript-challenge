@@ -25,7 +25,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 22 - [Follow Along Links](https://github.com/forral/javascript30-challenge/tree/master/22-follow-along-links)
 - [x] 23 - [Speech Synthesis](https://github.com/forral/javascript30-challenge/tree/master/23-speech-synthesis)
 - [x] 24 - [Sticky Nav](https://github.com/forral/javascript30-challenge/tree/master/24-sticky-nav)
-- [ ] 25 - Event Capture, Propagation, Bubbling and Once
+- [x] 25 - [Event Capture, Propagation, Bubbling and Once](https://github.com/forral/javascript30-challenge/tree/master/25-event-capture-propagation-bubbling-once)
 - [ ] 26 - Stripe Follow Along Dropdown
 - [ ] 27 - Click and Drag to Scroll
 - [ ] 28 - Video Speed Controller UI
