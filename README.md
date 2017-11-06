@@ -24,7 +24,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 21 - [Geolocation based Speedometer and Compass](https://github.com/forral/javascript30-challenge/tree/master/21-geolocation-based-speedometer-compass)
 - [x] 22 - [Follow Along Links](https://github.com/forral/javascript30-challenge/tree/master/22-follow-along-links)
 - [x] 23 - [Speech Synthesis](https://github.com/forral/javascript30-challenge/tree/master/23-speech-synthesis)
-- [ ] 24 - Sticky Nav
+- [x] 24 - [Sticky Nav](https://github.com/forral/javascript30-challenge/tree/master/24-sticky-nav)
 - [ ] 25 - Event Capture, Propagation, Bubbling and Once
 - [ ] 26 - Stripe Follow Along Dropdown
 - [ ] 27 - Click and Drag to Scroll
