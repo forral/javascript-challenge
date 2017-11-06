@@ -23,7 +23,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 20 - [Native Speech Recognition](https://github.com/forral/javascript30-challenge/tree/master/20-native-speech-recognition)
 - [x] 21 - [Geolocation based Speedometer and Compass](https://github.com/forral/javascript30-challenge/tree/master/21-geolocation-based-speedometer-compass)
 - [x] 22 - [Follow Along Links](https://github.com/forral/javascript30-challenge/tree/master/22-follow-along-links)
-- [ ] 23 - Speech Synthesis
+- [x] 23 - [Speech Synthesis](https://github.com/forral/javascript30-challenge/tree/master/23-speech-synthesis)
 - [ ] 24 - Sticky Nav
 - [ ] 25 - Event Capture, Propagation, Bubbling and Once
 - [ ] 26 - Stripe Follow Along Dropdown
