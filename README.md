@@ -27,7 +27,7 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 24 - [Sticky Nav](https://github.com/forral/javascript30-challenge/tree/master/24-sticky-nav)
 - [x] 25 - [Event Capture, Propagation, Bubbling and Once](https://github.com/forral/javascript30-challenge/tree/master/25-event-capture-propagation-bubbling-once)
 - [x] 26 - [Stripe Follow Along Dropdown](https://github.com/forral/javascript30-challenge/tree/master/26-stripe-follow-along-nav)
-- [ ] 27 - Click and Drag to Scroll
+- [x] 27 - Click and Drag to Scroll
 - [ ] 28 - Video Speed Controller UI
 - [ ] 29 - Countdown Clock
 - [ ] 30 - Whack A Mole Game
