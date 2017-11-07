@@ -28,6 +28,6 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 25 - [Event Capture, Propagation, Bubbling and Once](https://github.com/forral/javascript30-challenge/tree/master/25-event-capture-propagation-bubbling-once)
 - [x] 26 - [Stripe Follow Along Dropdown](https://github.com/forral/javascript30-challenge/tree/master/26-stripe-follow-along-nav)
 - [x] 27 - [Click and Drag to Scroll](https://github.com/forral/javascript30-challenge/tree/master/27-click-drag-scroll)
-- [ ] 28 - Video Speed Controller UI
+- [x] 28 - [Video Speed Controller UI](https://github.com/forral/javascript30-challenge/tree/master/28-video-speed-controller-ui)
 - [ ] 29 - Countdown Clock
 - [ ] 30 - Whack A Mole Game
