@@ -29,5 +29,5 @@ This is my repo for the [Javascript30](https://javascript30.com/) course by [Wes
 - [x] 26 - [Stripe Follow Along Dropdown](https://github.com/forral/javascript30-challenge/tree/master/26-stripe-follow-along-nav)
 - [x] 27 - [Click and Drag to Scroll](https://github.com/forral/javascript30-challenge/tree/master/27-click-drag-scroll)
 - [x] 28 - [Video Speed Controller UI](https://github.com/forral/javascript30-challenge/tree/master/28-video-speed-controller-ui)
-- [ ] 29 - Countdown Clock
+- [x] 29 - [Countdown Clock](https://github.com/forral/javascript30-challenge/tree/master/29-countdown-clock)
 - [ ] 30 - Whack A Mole Game
